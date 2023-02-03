@@ -1,2 +1,2 @@
 # Deep-Learning-HW
-All of Deep Learning HW (4012)
+All of Deep Learning HWs (4011)
